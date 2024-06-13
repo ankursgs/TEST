@@ -1,0 +1,5 @@
+https://www.geeksforgeeks.org/jenkins-and-git-integration-using-ssh-key/
+
+takeown /f C:\Ankur\Jenkins /r /d y
+
+git config --global --add safe.directory C:\Ankur\Jenkins
